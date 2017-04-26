@@ -6,6 +6,7 @@ Please write your functions below.
 # Write your code for hello_print
 def hello_print():
     print "Hello"
+    print "Amee"
 
 hello_print()
 
